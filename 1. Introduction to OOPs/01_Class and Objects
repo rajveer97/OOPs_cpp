@@ -1,0 +1,29 @@
+Notes:
+
+    Class and Objects:
+        Class and Objects are the basic concepts of Object-Oriented Programming,
+
+    Class:
+        A class is a user-defined blueprint or prototype from which real-world objects are created. 
+        It represents the set of properties or methods that are common to all objects of one type. 
+        We can call class as a collection of objects.
+
+    Object:
+        An Object is instance of class. 
+        - It has State: It is represented by the attributes of an object. 
+        It also reflects the properties of an object. 
+        - Behavior: It is represented by the methods of an object. 
+        It also reflects the response of an object with other objects. 
+        - Identity: It gives a unique name to an object and enables one object to interact with other objects.
+
+    Example:
+
+        Dog class
+            state: color, breed, age 
+            behavior: bark(), eat(), sleep() 
+            identity: BullDog, poddle
+
+        Person class
+            state: age, gender, complexion 
+            behaviour: think (), sleep(), eat()
+            identity: name1, name2 
